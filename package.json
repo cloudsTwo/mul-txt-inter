@@ -1,6 +1,6 @@
 {
   "name": "txt-dec",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "private": false,
   "author":"lime",
   "description": "文本截取",
